@@ -1,3 +1,11 @@
+###
+```
+make certs
+make build
+make up
+make username
+```
+---
 <p align="center">
 <a href="https://rengine.wiki"><img src=".github/screenshots/banner.gif" alt=""/></a>
 </p>
