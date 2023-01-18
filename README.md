@@ -1,10 +1,11 @@
-###
+## Launch
 ```
 make certs
 make build
 make up
 make username
 ```
+## Then [connect to site](https://localhost/login/?next=/)
 ---
 <p align="center">
 <a href="https://rengine.wiki"><img src=".github/screenshots/banner.gif" alt=""/></a>
